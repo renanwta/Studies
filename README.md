@@ -1,1 +1,3 @@
-# reposit'rio voltado para estudos
+# Estudy
+
+Repostiroy for learn and some stuff
