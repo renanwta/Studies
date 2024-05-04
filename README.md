@@ -1,3 +1,4 @@
 # Estudy
 
-Repostiroy for learn and some stuff
+Repositório criado para armazenar códigos e documentos criados durante os estudos
+
